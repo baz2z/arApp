@@ -6,6 +6,5 @@ Patter-bigD is the marker which needs to be scanned so that the art work is disp
 
 
 
-
-https://user-images.githubusercontent.com/76473476/144503491-41cf4461-cc7e-454f-810e-f1bbd140cfd8.mp4
+https://user-images.githubusercontent.com/76473476/144504199-5f9fcc2b-1c94-4f22-9ca6-b4c53a1695f9.mp4
 
