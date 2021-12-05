@@ -1,7 +1,7 @@
 Hosted via github pages at: https://baz2z.github.io/arApp/
 
 View Art in Augmented Reality on the Web.
-Patter-bigD is the marker which needs to be scanned so that the art work is displayed.
+Patter-capitalD is the marker which needs to be scanned so that the art work is displayed.
 
 
 
